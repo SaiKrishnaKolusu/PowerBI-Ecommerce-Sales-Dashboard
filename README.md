@@ -1,5 +1,3 @@
-# 🛒 Ecommerce Sales Dashboard
-
 An interactive Power BI dashboard designed to analyze and visualize key metrics in e-commerce sales performance. This project provides a comprehensive view of sales trends, customer behavior, and product category performance across different regions and time periods.
 
 ## 📊 Overview
